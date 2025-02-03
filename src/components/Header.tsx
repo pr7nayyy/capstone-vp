@@ -30,7 +30,7 @@ export default function Header() {
       <header className="bg-white shadow-md sticky top-0 z-50">
         <div className="container mx-auto px-4">
           <div className="flex justify-between items-center h-20">
-            <a href="/" className="text-2xl font-bold text-gray-800">GALLEON PHARMACEUTICALS</a>
+            <a href="/" className="text-2xl font-bold text-gray-800">GALLEON INSTRUTECH PVT. LTD.</a>
             
             <nav className="hidden md:flex items-center space-x-8">
               <a href="/" className="text-orange-500">Home</a>
